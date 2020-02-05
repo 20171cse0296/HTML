@@ -1,1 +1,48 @@
 # HTML
+ 
+<html>
+<head>
+<title>Restaurant</title>
+</head>
+<body bgcolor=  #9e727f 
+>
+<h1 align="center">Submission Status</h1>
+<p><b>Congratulations!! Your assignment submission is Perfect!</b></p>
+<p>The reward for the correct submission lets you win a free coupon from the presidency restaurant</p>
+<hr/>
+<h2>Restaurant Menu</h2>
+
+<br>
+<h3>Your delicacies include:</h3>
+<br>
+<OL type="i">
+<li>South Indian
+<UL type="default">
+<li>Meals
+<UL>
+<li>Full meals</li>
+<li>Plate meals</li>
+</UL></li>
+<li>breakfast
+<UL>
+<li>Idly Sambar</li>
+<li>Masala Dosa</li>
+</UL>
+</li></li></UL>
+<li>North Indian
+<UL type="default">
+<li>Meals
+<UL>
+<li>Full meals</li>
+<li>Plate meals</li>
+</UL></li>
+<li>breakfast
+<UL>
+<li>Pav bajji</li>
+<li>Roti curry</li>
+</UL>
+</li></li>
+</OL>
+
+</body>
+</html>
